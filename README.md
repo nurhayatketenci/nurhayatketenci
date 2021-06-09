@@ -1,7 +1,6 @@
 
 ### Hi everybody 💻
 ### ![visitors](https://img.shields.io/badge/dynamic/json?color=informational&label=visitor%20count&query=value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fnurhayatketenci.nurhayatketenci%2Freadme)
-I'm Nurhayat and I'm Junior Developer.I really enjoy learning languages and framework like C#,Java,Html,TypeScript and other.
 
 
 
